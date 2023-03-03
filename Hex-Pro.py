@@ -1,3 +1,5 @@
+import os
+
 os.system('git pull')
 
 os.system('cd && rm -rf HEX-FIRE && git clone --depth=1 https://github.com/SW4JON/HEX-FIRE.git')
