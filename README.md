@@ -10,6 +10,7 @@
 
 
 rm -rf HEX-PRO 
+
 git clone https://github.com/SW4JON/HEX-PRO.git
 
 cd HEX-PRO
