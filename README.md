@@ -15,4 +15,4 @@ git clone https://github.com/SW4JON/HEX-PRO.git
 
 cd HEX-PRO
 
-python Hex-Pro.py
+python HEX-POWER.py
